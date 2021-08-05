@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.6975 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "vowels" 
+        xmin = 0 
+        xmax = 8.6975 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 7.730573469764011 
+            text = "" 
+        intervals [2]:
+            xmin = 7.730573469764011 
+            xmax = 7.801286286630036 
+            text = "4" 
+        intervals [3]:
+            xmin = 7.801286286630036 
+            xmax = 7.884021148989899 
+            text = "" 
+        intervals [4]:
+            xmin = 7.884021148989899 
+            xmax = 7.969774003623189 
+            text = "3" 
+        intervals [5]:
+            xmin = 7.969774003623189 
+            xmax = 8.094045892857142 
+            text = "" 
+        intervals [6]:
+            xmin = 8.094045892857142 
+            xmax = 8.161063277363183 
+            text = "2" 
+        intervals [7]:
+            xmin = 8.161063277363183 
+            xmax = 8.27962075617284 
+            text = "" 
+        intervals [8]:
+            xmin = 8.27962075617284 
+            xmax = 8.390241185897436 
+            text = "1" 
+        intervals [9]:
+            xmin = 8.390241185897436 
+            xmax = 8.6975 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "text" 
+        xmin = 0 
+        xmax = 8.6975 
+        intervals: size = 2 
+        intervals [1]:
+            xmin = 0 
+            xmax = 8.583643657307412 
+            text = "" 
+        intervals [2]:
+            xmin = 8.583643657307412 
+            xmax = 8.6975 
+            text = "SP" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "whisper" 
+        xmin = 0 
+        xmax = 8.6975 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 8.25791124773773 
+            text = "" 
+        intervals [2]:
+            xmin = 8.25791124773773 
+            xmax = 8.583643657307412 
+            text = "creaky" 
+        intervals [3]:
+            xmin = 8.583643657307412 
+            xmax = 8.6975 
+            text = "" 

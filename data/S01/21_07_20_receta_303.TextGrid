@@ -1,0 +1,146 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 21.728 
+tiers? <exists> 
+size = 5 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "vowel" 
+        xmin = 0 
+        xmax = 21.728 
+        intervals: size = 12 
+        intervals [1]:
+            xmin = 0 
+            xmax = 8.203826210304747 
+            text = "" 
+        intervals [2]:
+            xmin = 8.203826210304747 
+            xmax = 8.297169257878336 
+            text = "ia" 
+        intervals [3]:
+            xmin = 8.297169257878336 
+            xmax = 8.796582651692047 
+            text = "" 
+        intervals [4]:
+            xmin = 8.796582651692047 
+            xmax = 8.878143146036138 
+            text = "i" 
+        intervals [5]:
+            xmin = 8.878143146036138 
+            xmax = 8.991486974030718 
+            text = "" 
+        intervals [6]:
+            xmin = 8.991486974030718 
+            xmax = 9.052257538443962 
+            text = "e" 
+        intervals [7]:
+            xmin = 9.052257538443962 
+            xmax = 9.157806413477491 
+            text = "" 
+        intervals [8]:
+            xmin = 9.157806413477491 
+            xmax = 9.206582787546017 
+            text = "e" 
+        intervals [9]:
+            xmin = 9.206582787546017 
+            xmax = 9.315515648466466 
+            text = "" 
+        intervals [10]:
+            xmin = 9.315515648466466 
+            xmax = 9.438809803902165 
+            text = "1a" 
+        intervals [11]:
+            xmin = 9.438809803902165 
+            xmax = 12.529703541672049 
+            text = "SP" 
+        intervals [12]:
+            xmin = 12.529703541672049 
+            xmax = 21.728 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "stress" 
+        xmin = 0 
+        xmax = 21.728 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 9.157806413477491 
+            text = "" 
+        intervals [2]:
+            xmin = 9.157806413477491 
+            xmax = 9.206582787546017 
+            text = "n" 
+        intervals [3]:
+            xmin = 9.206582787546017 
+            xmax = 21.728 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "word" 
+        xmin = 0 
+        xmax = 21.728 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 7.843396797794541 
+            text = "" 
+        intervals [2]:
+            xmin = 7.843396797794541 
+            xmax = 8.387435047211499 
+            text = "farmacias" 
+        intervals [3]:
+            xmin = 8.387435047211499 
+            xmax = 8.650344992167016 
+            text = "" 
+        intervals [4]:
+            xmin = 8.650344992167016 
+            xmax = 8.945984564045336 
+            text = "sin" 
+        intervals [5]:
+            xmin = 8.945984564045336 
+            xmax = 9.438809803902165 
+            text = "receta" 
+        intervals [6]:
+            xmin = 9.438809803902165 
+            xmax = 21.728 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "topic" 
+        xmin = 0 
+        xmax = 21.728 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 6.069249318761548 
+            text = "" 
+        intervals [2]:
+            xmin = 6.069249318761548 
+            xmax = 9.438809803902165 
+            text = "over-the-counter antibody tests" 
+        intervals [3]:
+            xmin = 9.438809803902165 
+            xmax = 21.728 
+            text = "" 
+    item [5]:
+        class = "IntervalTier" 
+        name = "whisper" 
+        xmin = 0 
+        xmax = 21.728 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 9.206582787546017 
+            text = "" 
+        intervals [2]:
+            xmin = 9.206582787546017 
+            xmax = 9.438809803902165 
+            text = "whisper" 
+        intervals [3]:
+            xmin = 9.438809803902165 
+            xmax = 21.728 
+            text = "" 
